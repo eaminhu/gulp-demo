@@ -1,0 +1,20 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "description": "gulp demo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eamin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-less": "^3.1.0",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.0.5",
+    "run-sequence": "^1.2.2"
+  }
+}
